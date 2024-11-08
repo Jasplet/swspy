@@ -5,8 +5,7 @@ A package for performing shear wave splitting in an automated manner. Based on t
 ## To cite:
 
 If you find this package useful, please do consider citing it. The appropriate work to cite is a manuscript currently in review:
-Hudson, T.S., Asplet, J., Walker, A.M.. (in review) "Automated shear-wave splitting analysis for single- and multi- layer anisotropic media". Seismica.
-
+Hudson, T.S., Asplet, J., Walker, A.M.. (2023) "Automated shear-wave splitting analysis for single- and multi- layer anisotropic media". Seismica.
 
 ## Documentation:
 
