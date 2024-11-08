@@ -14,4 +14,4 @@ Full documentation for the package is available [here](https://swspy.readthedocs
 
 ## Examples:
 
-Various example notebooks can be found in the examples directory, including the examples contained in the paper: Hudson et al. (in review), Seismica.
+Various example notebooks can be found in the examples directory, including the examples contained in the paper: [Hudson et al. (2023), Seismica.](https://seismica.library.mcgill.ca/article/view/1031).
